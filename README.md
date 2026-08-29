@@ -1,6 +1,3 @@
 # Level-Design-Image-Campus
 
-
-
-\#Primer conflicto
-
+# Primer conflicto desde github
